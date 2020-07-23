@@ -6,3 +6,10 @@
 - 😄 Pronouns: he/him
 - ⚡ Life goal: I would love to full-fill [this map](https://asuarez.dev/travel) someday.
 - 📌 Location: Barcelona.
+
+<br>
+
+<p align="center">
+  <img alt="User Stats" src="https://github-readme-stats.vercel.app/api?username=AlbertSuarez&&show_icons=true" width="60.25%"/>
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertSuarez" width="25%"/>
+</p>
