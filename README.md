@@ -1,6 +1,6 @@
 ### Hi there, I'm Albert 👋
 
-- 🔭 I’m currently working as a Principal Software Engineer at @restbai
+- 🔭 I’m currently working as Head of Technology at @restbai
 - 👯 I’m looking to collaborate on Open Source projects.
 - 💬 Ask me about hackathons, I'm fully passionate about them.
 - 😄 Pronouns: he/him
